@@ -1,0 +1,12 @@
+## LOOP
+## ARRAY
+
+Programme Idk{
+
+VAR CONST INTEGER :: XDD := 5 $
+CONST REAL:: X := 6.255 // T[5]$
+EXECUT
+
+IF((X+ XDD) EG 0 )
+
+}

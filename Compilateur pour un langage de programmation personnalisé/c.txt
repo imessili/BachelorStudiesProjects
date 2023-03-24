@@ -1,0 +1,49 @@
+   /*
+   
+   
+   dfdsfdf
+   */
+   
+
+
+
+
+						## PROCESS
+
+
+##ARRAY $ 
+
+
+Programme Exo1{
+
+
+VAR 
+REAL :: HJ//DF$
+CONST REAL :: CV:=(-42.02)$
+CONST INTEGER :: X:=(-23568)//Y:=457//X:=23$
+REAL ::L[2]//J$
+INTEGER :: N//I$
+
+HJ := 5.0 $
+DF := HJ + 10.0 $
+While ( L[5] SUP (5/N))
+{
+    
+    EXECUT 
+	EXECUT
+	While(DF EG 10.5){
+	WRITE ("HJ  % "| HJ | DF)$
+			   WRITE ("HJ ")$
+	}
+	IF (HJ SUP Quu )
+	END_IF
+	IF (X SUP X)
+    ELSE
+    
+    END_IF
+}
+
+READ("%"|@XC)$
+
+
+}
