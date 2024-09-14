@@ -1,4 +1,4 @@
-### **Description Français
+### Description Français
 
 ### Evaluateur et Calculateur des expressions arithmétiques en C:
    Projet réalisé en deuxième année de licence en informatique, développé en langage C, ce programme évalue et calcule des expressions arithmétiques.
@@ -37,7 +37,7 @@
    Il inclut des techniques de traitement automatique du langage naturel (TALN) pour identifier, extraire et structurer des informations spécifiques.
    
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### **English Description**
+### English Description
 
 ### Evaluator and Calculator for Arithmetic Expressions in C:
    A project completed in the second year of a Computer Science degree, developed in C language, this program evaluates and calculates arithmetic expressions.
